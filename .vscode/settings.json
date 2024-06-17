@@ -1,0 +1,5 @@
+{
+  "git.autoRepositoryDetection": false,
+  "git.autoStash": true,
+  "git.enabled": true
+}
